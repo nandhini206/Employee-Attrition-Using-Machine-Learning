@@ -1,0 +1,56 @@
+1. Employees Likely to Stay
+Employee Name: John Smith
+Employee ID: 1001
+Satisfaction Level: 0.8
+Last Evaluation: 0.9
+Number of Projects: 5
+Average Monthly Hours: 190
+Years in Company: 3
+Work Accident: No
+Promoted in Last 5 Years: Yes
+Department: Sales
+Salary Level: High
+
+
+
+2. Employees at Low Risk
+Employee Name: Emma Brown
+Employee ID: 1003
+Satisfaction Level: 0.5
+Last Evaluation: 0.7
+Number of Projects: 6
+Average Monthly Hours: 210
+Years in Company: 5
+Work Accident: No
+Promoted in Last 5 Years: No
+Department: HR
+Salary Level: Medium
+
+
+
+3. Employees at Medium Risk
+Employee Name: Rachel Green
+Employee ID: 1004
+Satisfaction Level: 0.4
+Last Evaluation: 0.6
+Number of Projects: 8
+Average Monthly Hours: 250
+Years in Company: 7
+Work Accident: No
+Promoted in Last 5 Years: No
+Department: Technical
+Salary Level: Medium
+
+
+4. Employees at High Risk
+Employee Name: Jane Smith
+Employee ID: 1002
+Satisfaction Level: 0.3
+Last Evaluation: 0.5
+Number of Projects: 7
+Average Monthly Hours: 270
+Years in Company: 7
+Work Accident: No
+Promoted in Last 5 Years: No
+Department: Technical
+Salary Level: Medium
